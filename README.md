@@ -1,4 +1,4 @@
-<img src="frontend/public/images/logo.png" alt="Codelingo" width="200">
+<img src="/frontend/public/images/logo.png" alt="Codelingo" width="200">
 
 # Codelingo
 
