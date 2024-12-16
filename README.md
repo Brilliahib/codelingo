@@ -2,7 +2,7 @@
 
 # Codelingo
 
-Codelingo adalah proyek web yang menggunakan **Next.js** sebagai frontend dan **Laravel** sebagai backend. Repository ini mencakup setup untuk menjalankan kedua bagian proyek secara lokal.
+CodeLingo adalah program pembelajaran coding yang dirancang khusus untuk anak-anak, mulai dari pemula hingga level intermediate. Proyek ini dibuat menggunakan Next.Js sebagai frontend dan Laravel sebagai backendnya.
 
 ---
 
