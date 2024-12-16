@@ -1,3 +1,5 @@
+<img src="frontend/public/images/logo.png" alt="Codelingo" width="200">
+
 # Codelingo
 
 Codelingo adalah proyek web yang menggunakan **Next.js** sebagai frontend dan **Laravel** sebagai backend. Repository ini mencakup setup untuk menjalankan kedua bagian proyek secara lokal.
