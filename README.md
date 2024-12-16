@@ -1,4 +1,10 @@
-<img src="logo.png" alt="Codelingo" width="200">
+<h1 align="center">
+  <br>
+  <img src="logo-2.png" alt="Codelingo" width="200">
+  <br>
+  Codelingo - Belajar Coding Menjadi Mudah dan Menyenangkan
+  <br>
+</h1>
 
 # Codelingo
 
