@@ -6,9 +6,7 @@
   <br>
 </h1>
 
-# Codelingo
-
-CodeLingo adalah program pembelajaran coding yang dirancang khusus untuk anak-anak, mulai dari pemula hingga level intermediate. Proyek ini dibuat menggunakan Next.Js sebagai frontend dan Laravel sebagai backendnya.
+CodeLingo adalah website program pembelajaran coding yang dirancang khusus untuk anak-anak, mulai dari pemula hingga level intermediate. Proyek ini dibuat menggunakan Next.Js sebagai frontend dan Laravel sebagai backendnya.
 
 ---
 
